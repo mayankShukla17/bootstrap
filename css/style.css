@@ -1,0 +1,57 @@
+button {
+    background:red ;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid #111;
+    color: #fff;
+    /* color:gray;
+    background:green;
+    padding: 50px;
+    margin: 80px; */
+}
+
+button:hover{
+    background: #111;
+    transform: scale(1);
+    transition: ease-in-out 1s all;
+    padding: 20px;
+}
+
+/* .btn-danger{
+    background: burlywood !important;
+    padding: 30px;
+} */
+
+/* div{
+    background: red;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #111;
+    color: #fff;
+    display: inline-block;
+}
+div:nth-child(2){
+    background: blue;
+}
+div:nth-child(3){
+    background: black;
+}
+div:first-child{
+    background: yellow;
+}
+div:last-child{
+    background: gray !important;
+} */
+
+div{
+    border: 1px solid #111;
+    text-align: center;
+    /* color: #fff; */
+    border-radius: 10px;
+}
+
+.col-md-1{
+    background: red;
+    border: 1px solid #111;
+}
